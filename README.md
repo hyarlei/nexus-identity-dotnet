@@ -56,9 +56,9 @@ dotnet run
 
 A API estará disponível em:
 
-- **HTTPS**: <https://localhost:5001>
-- **HTTP**: <http://localhost:5000>
-- **Swagger UI**: <https://localhost:5001/swagger>
+- **HTTPS**: <https://localhost:5281>
+- **HTTP**: <http://localhost:5281>
+- **Swagger UI**: <https://localhost:5281/swagger>
 
 ## 📚 Endpoints da API
 
