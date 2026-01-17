@@ -8,6 +8,7 @@
 
 # Local database files
 app.db
+*.db
 
 # User-specific files
 *.rsuser
